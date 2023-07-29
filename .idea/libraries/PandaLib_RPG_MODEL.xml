@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="PandaLib-RPG-MODEL">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../PandaLib-RPG-MODEL/out/artifacts/PandaLib_RPG_MODEL_jar/PandaLib-RPG-MODEL.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

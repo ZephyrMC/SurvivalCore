@@ -1,0 +1,12 @@
+name: SurvivalCore
+version: 1
+api-version: 1.19
+author: bxx2004
+main: net.mcmxsg.survivalcore.SurvivalCore
+libraries:
+  - org.jetbrains.kotlin:kotlin-parcelize-runtime:1.8.10
+softdepend:
+  - QualityArmory
+  - WorldEdit
+  - Worldguard
+  - Vault

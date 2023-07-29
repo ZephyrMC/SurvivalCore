@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="SurvivalCore:jar">
+    <output-path>$PROJECT_DIR$/../../末世求生录/plugins</output-path>
+    <root id="archive" name="SurvivalCore.jar">
+      <element id="module-output" name="SurvivalCore" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../TestServer/plugins/PandaLib.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../PandaLib-RPG-MODEL/out/artifacts/PandaLib_RPG_MODEL_jar/PandaLib-RPG-MODEL.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
